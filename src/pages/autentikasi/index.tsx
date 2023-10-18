@@ -3,8 +3,8 @@ import { GetServerSideProps, GetServerSidePropsContext } from "next"
 
 export default function index() {
   return (
-    <div>
-      auth here
+    <div className="container">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati, quia.
     </div>
   )
 }

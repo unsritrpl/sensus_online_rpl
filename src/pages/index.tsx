@@ -4,7 +4,7 @@ import { GetServerSideProps, GetServerSidePropsContext } from "next"
 export default function index() {
   return (
     <div>
-
+      hi
     </div>
   )
 }
